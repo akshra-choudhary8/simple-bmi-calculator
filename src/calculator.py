@@ -14,3 +14,4 @@ class HealthCalculator:
             return "Overweight"
         else:
             return "Obese"
+        
